@@ -2,7 +2,7 @@
 <suite name="OrangeHRM Test Suite">
     <test name="Login Test">
         <classes>
-            <class name="test.LoginTest"/>
+            <class name="tests.LoginTest"/>
         </classes>
     </test>
 </suite>
